@@ -10,6 +10,21 @@ These patterns are designed for:
 - Prompt rewriting and structuring  
 - Enhancing engineering workflows for data pipelines, DevOps tasks, SQL, Fabric/ADF, orchestration, and related domains  
 
+## Dependencies
+
+- **Fabric** – Pattern framework used to rewrite and structure prompts  
+  https://github.com/danielmiessler/Fabric
+
+- **Ollama** – Local LLM runtime used to generate enhanced prompts  
+  https://ollama.com/
+
+- **AutoHotkey** – Automation layer to trigger patterns and copy output to the clipboard  
+  https://www.autohotkey.com/
+
+(Optional)  
+- **Git** – For cloning or managing pattern repositories  
+  https://git-scm.com/
+
 ## Primary Use Case
 
 This pattern set is primarily used with a **local Ollama installation** to provide fast, offline prompt amplification.  
