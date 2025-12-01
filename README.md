@@ -2,7 +2,7 @@
 
 ## What and Why
 
-This project uses Fabric as a **prompt amplifier**—a system for transforming rough ideas into clear, powerful, and ready-to-use prompts.  
+This project uses Fabric as a **prompt amplifier**. A system for transforming rough ideas into clear, powerful, and ready-to-use prompts.  
 Fabric’s Patterns provide the structure for rewriting, clarifying, and strengthening prompts before they are sent to larger hosted models like GPT Enterprise.
 
 While the main Fabric repository includes broad, general-purpose patterns, this collection focuses on **DevOps and Data Engineering** needs.  
