@@ -1,17 +1,4 @@
-<div align="center">
-    <a href="https://go.warp.dev/fabric" target="_blank">
-        <sup>Special thanks to:</sup>
-        <br>
-        <img alt="Warp sponsorship" width="400" src="https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-02.png">
-        <br>
-        <h>Warp, built for coding with multiple AI agents</b>
-        <br>
-        <sup>Available for macOS, Linux and Windows</sup>
-    </a>
-</div>
-
-<br>
-
+<
 <div align="center">
 
 <img src="./docs/images/fabric-logo-gif.gif" alt="fabriclogo" width="400" height="400"/>
